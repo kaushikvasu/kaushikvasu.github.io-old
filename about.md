@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey!
+If you didn't already know, my name is Kaushik Vasudevan. I graduated in 2015 from NYU with a Bachelor's in Sociology before moving back to the Bay Area. I am very interested in Data Science and Sports, and specifically the intersection of the two. I am currently attending Metis: Data Science Bootcamp in San Francisco.
 
-### More Information
+### Contact Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My LinkedIn Profile
+https://www.linkedin.com/in/kaushikvasudevan
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+<!-- [email@domain.com](mailto:email@domain.com) -->

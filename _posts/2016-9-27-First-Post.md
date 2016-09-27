@@ -3,7 +3,6 @@ layout: post
 title: First Blog Post!
 ---
 
-
 Hi everyone!
 It's my first blog post! I just finished one week at the Metis Data Science Bootcamp. It's been a lot of fun meeting new people and learning different skills that I will need as a Data Scientist.
 
